@@ -1,2 +1,2 @@
 # AutoHotKey
-Here I uploaded some usefull AutoHotKey macros and projects
+  In this section i uploaded some of the scripts I write in AutoHotKey scripting language. I manage to implement an Auto GUI Bot that can automate some repeatable actions. The bot has variety of function like clicking the mouse on the screen, firing keypresses, searching for an image on the screen, running application and more. The user can also create a file with a sequence of actions, then open that file and execute the those actions later. The script also contains a small mouse recorder, that can record short sequence of mouse driven events, than execute those actions later.
